@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/Insurer.Api/.vs
+/Insurer.Api/bin/Debug/net6.0
+/Insurer.Api/obj
+/Insurer.BAL/bin/Debug/net6.0
+/Insurer.BAL/obj
+/Insurer.Models/bin/Debug/net6.0
+/Insurer.Models/obj
